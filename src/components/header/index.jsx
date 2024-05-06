@@ -8,8 +8,8 @@ const Header = () => {
       <div className="logo">Trippospace</div>
       <nav className="nav">
         <ul className="nav-list">
-          <li className="nav-item">Home</li>
-          <li className="nav-item">Shop</li>
+          <li className="nav-item">Blog</li>
+          <li className="nav-item">Contact</li>
         </ul>
       </nav>
       <div className="icons">

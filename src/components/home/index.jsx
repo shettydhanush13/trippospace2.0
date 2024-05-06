@@ -1,8 +1,11 @@
 import './styles.scss';
+import BlogSection from '../blogs'
 
 const Home = () => {
   return (
-    <div className="body-wrapper"></div>
+    <div className="body-wrapper">
+        <BlogSection/>
+    </div>
   );
 }
 

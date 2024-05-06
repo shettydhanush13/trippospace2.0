@@ -3,7 +3,7 @@
   color: white;
   display: flex;
   align-items: center;
-  padding: 10px 20px;
+  padding: 10px calc(5% + 20px);
 
   .logo {
     font-size: 24px;
