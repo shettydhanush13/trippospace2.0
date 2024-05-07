@@ -10,7 +10,7 @@ const LandingPage = () => {
         <h1>Find unique items for your travel adventure</h1>
         <h2>browse by destination, season or special</h2>
         <div className="search-bar">
-            <input type="text" placeholder="Search for travel clothing and accessories" />
+            <input type="text" placeholder="Search for travel clothing and accessories..." />
             <button>Search </button>
         </div>
       </div>
