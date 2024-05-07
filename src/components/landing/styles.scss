@@ -1,0 +1,59 @@
+// LandingPage.scss
+
+.landing-page {
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    padding: 20px;
+    width: 100%;
+    height: 70vh;
+  
+    .landing-page-header {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        margin-bottom: 20px;
+  
+      h1 {
+        font-size: 24px;
+        margin-bottom: 10px;
+      }
+  
+      h2 {
+        font-size: 18px;
+        color: #666;
+      }
+    }
+  
+    .search-bar {
+      display: flex;
+      align-items: center;
+  
+      input[type="text"] {
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        margin-right: 10px;
+      }
+  
+      button {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+    }
+  
+    .image-container {
+      margin-top: 20px;
+  
+      img {
+        max-width: 100%;
+        height: auto;
+      }
+    }
+  }
+  
