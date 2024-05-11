@@ -3,7 +3,7 @@ import { useState, useEffect } from 'react';
 import './styles.scss';
 import { useNavigate } from 'react-router-dom';
 
-const blogs = require('../../data/blogposts.json');
+const blogs = require('../../data/data.json');
 
 const BlogSection = () => {
 

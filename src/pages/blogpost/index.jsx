@@ -11,7 +11,7 @@ import {
     MiscSection
 } from './section';
 import './styles.scss';
-const blogs = require('../../data/blogposts.json');
+const blogs = require('../../data/data.json');
 
 const BlogPost = () => {
   const location = useLocation();
@@ -21,7 +21,7 @@ const BlogPost = () => {
   const { place, imageUrl, guide } = blog;
 
   const seasons = Object.keys(guide);
-  const genders = ["Female", "Male", "Children"];
+  const genders = ["Women", "Men", "Children"];
 
   const [season, setSeason] = useState(seasons[0])
   const [activeGender, setActiveGender] = useState(genders[0])

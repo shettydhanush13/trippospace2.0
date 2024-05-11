@@ -19,11 +19,70 @@
               "Waterproof phone case",
               "Portable speaker"
             ],
-            "apparel": [
-              "Shorts",
-              "T-shirts",
-              "Summer dresses"
-            ],
+            "apparel": {
+                "Men" : {
+                    "productsList" : [
+                        "Shorts",
+                        "T-shirts",
+                        "Summer dresses"
+                    ],
+                    "recommendations" : [
+                        {
+                          "id": 1,
+                          "name": "Men Regular Fit Rayon Shirt",
+                          "image": "https://m.media-amazon.com/images/I/71zxaJ6PXdL._SY741_.jpg",
+                          "productLink": "https://amzn.to/3WDATXU"
+                        },
+                        {
+                          "id": 2,
+                          "name": "Rayon Multi Printed Short Night Suit",
+                          "image": "https://m.media-amazon.com/images/I/617r9XuWkXL._SY741_.jpg",
+                          "productLink": "https://amzn.to/3UWxP83"
+                        },
+                        {
+                          "id": 3,
+                          "name": "Summer Wear Short Pajama Set",
+                          "image": "https://m.media-amazon.com/images/I/61DtPleZhjL._SY741_.jpg",
+                          "productLink": "https://amzn.to/3JVFjS7"
+                        }
+                    ]
+                },
+                "Women" : {
+                    "productsList" : [
+                        "Shorts",
+                        "T-shirts",
+                        "Summer dresses"
+                    ],
+                    "recommendations" : [
+                        {
+                          "id": 1,
+                          "name": "Women's Maxi Two-Piece Dress",
+                          "image": "https://m.media-amazon.com/images/I/81tDFJQxRSL._SY741_.jpg",
+                          "productLink": "https://amzn.to/4dy0HdZ"
+                        },
+                        {
+                          "id": 2,
+                          "name": "Co Ord Set Three Piece Dress",
+                          "image": "https://m.media-amazon.com/images/I/71F3SBaazKL._SY741_.jpg",
+                          "productLink": "https://amzn.to/3UWxP83"
+                        },
+                        {
+                          "id": 3,
+                          "name": "Beach Co Ord Set Three Piece",
+                          "image": "https://m.media-amazon.com/images/I/41eu0PVrssL._SY741_.jpg",
+                          "productLink": "https://amzn.to/4baVUgN"
+                        }
+                    ]
+                },
+                "Children" : {
+                    "productsList" : [
+                        "Shorts",
+                        "T-shirts",
+                        "Summer dresses"
+                    ],
+                    "recommendations" : []
+                }
+            },
             "gears": [
               "Waterproof camera or smartphone case"
             ],
@@ -47,11 +106,32 @@
               "Waterproof phone case",
               "Portable speaker"
             ],
-            "apparel": [
-              "Shorts",
-              "Tank tops",
-              "Summer dresses"
-            ],
+            "apparel": {
+                "Men" : {
+                    "productsList" : [
+                        "Shorts",
+                        "T-shirts",
+                        "Summer dresses"
+                    ],
+                    "recommendations" : []
+                },
+                "Women" : {
+                    "productsList" : [
+                        "Shorts",
+                        "T-shirts",
+                        "Summer dresses"
+                    ],
+                    "recommendations" : []
+                },
+                "Children" : {
+                    "productsList" : [
+                        "Shorts",
+                        "T-shirts",
+                        "Summer dresses"
+                    ],
+                    "recommendations" : []
+                }
+            },
             "gears": [
               "Waterproof camera or smartphone case"
             ],
@@ -72,11 +152,32 @@
               "Insect repellent",
               "First aid kit"
             ],
-            "apparel": [
-              "Cotton shirts",
-              "Shorts",
-              "Raincoats"
-            ],
+            "apparel": {
+                "Men" : {
+                    "productsList" : [
+                        "Shorts",
+                        "T-shirts",
+                        "Summer dresses"
+                    ],
+                    "recommendations" : []
+                },
+                "Women" : {
+                    "productsList" : [
+                        "Shorts",
+                        "T-shirts",
+                        "Summer dresses"
+                    ],
+                    "recommendations" : []
+                },
+                "Children" : {
+                    "productsList" : [
+                        "Shorts",
+                        "T-shirts",
+                        "Summer dresses"
+                    ],
+                    "recommendations" : []
+                }
+            },
             "gears": [],
             "misc": [
               "Explore waterfalls and rivers",
@@ -94,11 +195,32 @@
               "Wide-brimmed hat",
               "Water-resistant sandals or flip-flops"
             ],
-            "apparel": [
-              "Shorts",
-              "T-shirts",
-              "Summer dresses"
-            ],
+            "apparel": {
+                "Men" : {
+                    "productsList" : [
+                        "Shorts",
+                        "T-shirts",
+                        "Summer dresses"
+                    ],
+                    "recommendations" : []
+                },
+                "Women" : {
+                    "productsList" : [
+                        "Shorts",
+                        "T-shirts",
+                        "Summer dresses"
+                    ],
+                    "recommendations" : []
+                },
+                "Children" : {
+                    "productsList" : [
+                        "Shorts",
+                        "T-shirts",
+                        "Summer dresses"
+                    ],
+                    "recommendations" : []
+                }
+            },
             "gears": [],
             "misc": [
               "Explore vibrant markets and historic churches",
@@ -106,7 +228,6 @@
             ]
           }
         }
-      }
-      
-  ]
+    }  
+]
   
