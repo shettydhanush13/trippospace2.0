@@ -1,16 +1,22 @@
-import './App.css';
-import Home from './components/home'
-import Navbar from './components/navbar'
-import Footer from './components/footer'
+import { Routes, Route, BrowserRouter } from "react-router-dom"
+import Home from "./pages/home"
+import BlogPost from "./pages/blogpost";
+import AboutUs from "./pages/about"
+import ContactUs from "./pages/contact"
 
 const App = () => {
-  return (
-    <div className="App">
-      <Navbar/>
-      <Home/>
-      <Footer/>
-    </div>
-  );
+ return (
+   <div className="App">
+     <BrowserRouter>
+       <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/blog/:id" element={<BlogPost/>} />
+          <Route path="/about" element={<AboutUs/>} />
+          <Route path="/contact" element={<ContactUs/>} />
+       </Routes>
+     </BrowserRouter>
+   </div>
+ )
 }
 
-export default App;
+export default App

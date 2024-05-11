@@ -1,0 +1,51 @@
+.header {
+  background-color: #333;
+  color: white;
+  display: flex;
+  align-items: center;
+  padding: 10px calc(5% + 20px);
+
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+    margin-right: auto;
+    cursor: pointer;
+  }
+
+  .nav {
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+
+      .nav-item {
+        display: inline-block;
+        margin-left: 20px;
+        cursor: pointer;
+        a {
+          color: #fff;
+          text-decoration: none;
+          &:hover {
+            text-decoration: underline;
+          }
+        }
+      }
+    }
+  }
+
+  .icons {
+    display: flex;
+    align-items: center;
+
+    .profile-icon,
+    .cart-icon {
+      font-size: 20px;
+      margin-left: 20px;
+      cursor: pointer;
+
+      &:hover {
+        color: #ffc107; // Change color on hover as needed
+      }
+    }
+  }
+}

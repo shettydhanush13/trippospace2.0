@@ -1,0 +1,50 @@
+[
+    {
+       "id":1,
+       "title":"Exploring the Majestic Mountains",
+       "content":"Embark on an adventure to discover the breathtaking beauty of the mountains.",
+       "imageUrl":"https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?cs=srgb&dl=pexels-souvenirpixels-417074.jpg&fm=jpg"
+    },
+    {
+       "id":2,
+       "title":"Discovering Hidden Gems in Coastal Villages",
+       "content":"Experience the tranquility and charm of coastal villages nestled along pristine shores.",
+       "imageUrl":"https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?cs=srgb&dl=pexels-souvenirpixels-417074.jpg&fm=jpg"
+    },
+    {
+       "id":3,
+       "title":"Safari Adventure in the Heart of Africa",
+       "content":"Encounter magnificent wildlife and immerse yourself in the raw beauty of the African wilderness.",
+       "imageUrl":"https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?cs=srgb&dl=pexels-souvenirpixels-417074.jpg&fm=jpg"
+    },
+    {
+       "id":4,
+       "title":"Cultural Exploration in Ancient Cities",
+       "content":"Uncover the rich history and cultural heritage of ancient cities around the world.",
+       "imageUrl":"https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?cs=srgb&dl=pexels-souvenirpixels-417074.jpg&fm=jpg"
+    },
+    {
+       "id":5,
+       "title":"Island Hopping in the Caribbean Paradise",
+       "content":"Indulge in the ultimate tropical getaway as you hop from one stunning island to another.",
+       "imageUrl":"https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?cs=srgb&dl=pexels-souvenirpixels-417074.jpg&fm=jpg"
+    },
+    {
+       "id":6,
+       "title":"Trekking through Lush Rainforests",
+       "content":"Embark on a journey through lush rainforests teeming with exotic flora and fauna.",
+       "imageUrl":"https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?cs=srgb&dl=pexels-souvenirpixels-417074.jpg&fm=jpg"
+    },
+    {
+       "id":7,
+       "title":"Cruise Expedition to Polar Regions",
+       "content":"Embark on an extraordinary expedition to the icy realms of the polar regions.",
+       "imageUrl":"https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?cs=srgb&dl=pexels-souvenirpixels-417074.jpg&fm=jpg"
+    },
+    {
+       "id":8,
+       "title":"Backpacking Adventure across Europe",
+       "content":"Experience the diversity and charm of Europe on an unforgettable backpacking journey.",
+       "imageUrl":"https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?cs=srgb&dl=pexels-souvenirpixels-417074.jpg&fm=jpg"
+    }
+ ]
