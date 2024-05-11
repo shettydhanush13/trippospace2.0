@@ -19,5 +19,45 @@
         line-height: 1.6;
       }
     }
+
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    
+    li {
+      font-family: 'Poppins', sans-serif;
+      font-size: 16px;
+      line-height: 1.5;
+      margin-bottom: 12px;
+      padding-left: 15px;
+      position: relative;
+    
+      &:before {
+        content: '';
+        position: absolute;
+        left: 0;
+        top: 50%;
+        transform: translateY(-50%);
+        width: 5px;
+        height: 5px;
+        background-color: #333; /* Change color as desired */
+        border-radius: 50%;
+      }
+    }
+
+    .section-wrapper {
+      border-top: 1px solid lightgray;
+      padding-bottom: 10px;
+      h3 {
+        font-size: 18px;
+        color: #333;
+      }
+    }
+
+    .product-card-container {
+      display: flex;
+    }
+  
 }
   

@@ -1,50 +1,112 @@
 [
     {
-       "id":1,
-       "title":"Exploring the Majestic Mountains",
-       "content":"Embark on an adventure to discover the breathtaking beauty of the mountains.",
-       "imageUrl":"https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?cs=srgb&dl=pexels-souvenirpixels-417074.jpg&fm=jpg"
-    },
-    {
-       "id":2,
-       "title":"Discovering Hidden Gems in Coastal Villages",
-       "content":"Experience the tranquility and charm of coastal villages nestled along pristine shores.",
-       "imageUrl":"https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?cs=srgb&dl=pexels-souvenirpixels-417074.jpg&fm=jpg"
-    },
-    {
-       "id":3,
-       "title":"Safari Adventure in the Heart of Africa",
-       "content":"Encounter magnificent wildlife and immerse yourself in the raw beauty of the African wilderness.",
-       "imageUrl":"https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?cs=srgb&dl=pexels-souvenirpixels-417074.jpg&fm=jpg"
-    },
-    {
-       "id":4,
-       "title":"Cultural Exploration in Ancient Cities",
-       "content":"Uncover the rich history and cultural heritage of ancient cities around the world.",
-       "imageUrl":"https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?cs=srgb&dl=pexels-souvenirpixels-417074.jpg&fm=jpg"
-    },
-    {
-       "id":5,
-       "title":"Island Hopping in the Caribbean Paradise",
-       "content":"Indulge in the ultimate tropical getaway as you hop from one stunning island to another.",
-       "imageUrl":"https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?cs=srgb&dl=pexels-souvenirpixels-417074.jpg&fm=jpg"
-    },
-    {
-       "id":6,
-       "title":"Trekking through Lush Rainforests",
-       "content":"Embark on a journey through lush rainforests teeming with exotic flora and fauna.",
-       "imageUrl":"https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?cs=srgb&dl=pexels-souvenirpixels-417074.jpg&fm=jpg"
-    },
-    {
-       "id":7,
-       "title":"Cruise Expedition to Polar Regions",
-       "content":"Embark on an extraordinary expedition to the icy realms of the polar regions.",
-       "imageUrl":"https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?cs=srgb&dl=pexels-souvenirpixels-417074.jpg&fm=jpg"
-    },
-    {
-       "id":8,
-       "title":"Backpacking Adventure across Europe",
-       "content":"Experience the diversity and charm of Europe on an unforgettable backpacking journey.",
-       "imageUrl":"https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?cs=srgb&dl=pexels-souvenirpixels-417074.jpg&fm=jpg"
-    }
- ]
+        "id": 1,
+        "place": "Goa",
+        "imageUrl": "https://media.istockphoto.com/id/535168027/photo/india-goa-palolem-beach.jpg?s=612x612&w=0&k=20&c=iGV1Ue0Efj87dQirWnUpZVG1dNobUjfVvMGdKHTJ7Qg=",
+        "guide": {
+          "dec-feb": {
+            "title": "Winter Escapade in Goa",
+            "imageUrl": "https://media2.thrillophilia.com/images/photos/000/020/234/original/1589185778_beach.jpg?gravity=center&width=1280&height=642&crop=fill&quality=auto&fetch_format=auto&flags=strip_profile&format=jpg&sign_url=true",
+            "short_content": "Cool weather with temperatures ranging from 20°C to 30°C.",
+            "content": "Goa experiences pleasant weather during the winter season. Days are sunny and warm, perfect for beach activities and water sports. Pack light and comfortable apparel such as shorts, t-shirts, and summer dresses. Don't forget to bring sunscreen, sunglasses, and a wide-brimmed hat for sun protection. Water-resistant sandals or flip-flops are essential for sandy beach walks. Remember to carry a beach towel, swimwear, and a waterproof phone case for beachside fun. Explore Goa's vibrant nightlife and indulge in delicious seafood delicacies!",
+            "accessories": [
+              "Sunscreen with high SPF",
+              "Sunglasses",
+              "Wide-brimmed hat",
+              "Water-resistant sandals or flip-flops",
+              "Beach towel",
+              "Swimwear",
+              "Waterproof phone case",
+              "Portable speaker"
+            ],
+            "apparel": [
+              "Shorts",
+              "T-shirts",
+              "Summer dresses"
+            ],
+            "gears": [
+              "Waterproof camera or smartphone case"
+            ],
+            "misc": [
+              "Local seafood delicacies",
+              "Refreshing coconut water"
+            ]
+          },
+          "mar-may": {
+            "title": "Summer Beach Vibes in Goa",
+            "imageUrl": "https://media2.thrillophilia.com/images/photos/000/020/234/original/1589185778_beach.jpg?gravity=center&width=1280&height=642&crop=fill&quality=auto&fetch_format=auto&flags=strip_profile&format=jpg&sign_url=true",
+            "short_content": "Sunny weather with temperatures ranging from 25°C to 35°C.",
+            "content": "Goa experiences hot and humid weather during the summer season. Days are sunny with occasional showers. Light and breathable apparel is recommended, such as shorts, tank tops, and summer dresses. Don't forget to pack sunscreen with high SPF to protect your skin from the sun's harmful rays, along with sunglasses and a wide-brimmed hat for added sun protection. Water-resistant sandals or flip-flops are essential for beach walks. Remember to bring a reusable water bottle to stay hydrated throughout the day. Other must-carry items include a beach towel, swimwear, a waterproof phone case, and a portable speaker for beachside entertainment. Capture your Goa adventures with a waterproof camera or smartphone case, and don't forget to sample the local seafood delicacies and refreshing coconut water!",
+            "accessories": [
+              "Sunscreen with high SPF",
+              "Sunglasses",
+              "Wide-brimmed hat",
+              "Water-resistant sandals or flip-flops",
+              "Beach towel",
+              "Swimwear",
+              "Waterproof phone case",
+              "Portable speaker"
+            ],
+            "apparel": [
+              "Shorts",
+              "Tank tops",
+              "Summer dresses"
+            ],
+            "gears": [
+              "Waterproof camera or smartphone case"
+            ],
+            "misc": [
+              "Local seafood delicacies",
+              "Refreshing coconut water"
+            ]
+          },
+          "june-aug": {
+            "title": "Monsoon Getaway in Goa",
+            "imageUrl": "https://media2.thrillophilia.com/images/photos/000/020/234/original/1589185778_beach.jpg?gravity=center&width=1280&height=642&crop=fill&quality=auto&fetch_format=auto&flags=strip_profile&format=jpg&sign_url=true",
+            "short_content": "Rainy weather with temperatures ranging from 25°C to 30°C.",
+            "content": "Goa experiences heavy rainfall during the monsoon season, with occasional thunderstorms. Days are overcast and humid, perfect for enjoying the lush greenery and scenic beauty of the region. Pack waterproof apparel, umbrellas, and waterproof shoes to stay dry during outdoor activities. Bring light and breathable apparel such as cotton shirts, shorts, and raincoats. Don't forget to carry insect repellent and a first aid kit for emergencies. Embrace the monsoon magic of Goa by exploring its waterfalls, rivers, and lush forests!",
+            "accessories": [
+              "Umbrella",
+              "Raincoat",
+              "Waterproof shoes",
+              "Insect repellent",
+              "First aid kit"
+            ],
+            "apparel": [
+              "Cotton shirts",
+              "Shorts",
+              "Raincoats"
+            ],
+            "gears": [],
+            "misc": [
+              "Explore waterfalls and rivers",
+              "Enjoy lush greenery"
+            ]
+          },
+          "sep-nov": {
+            "title": "Autumn Delight in Goa",
+            "imageUrl": "https://media2.thrillophilia.com/images/photos/000/020/234/original/1589185778_beach.jpg?gravity=center&width=1280&height=642&crop=fill&quality=auto&fetch_format=auto&flags=strip_profile&format=jpg&sign_url=true",
+            "short_content": "Pleasant weather with temperatures ranging from 25°C to 30°C.",
+            "content": "Goa experiences pleasant weather during the autumn season, with clear skies and comfortable temperatures. Days are warm and sunny, perfect for beach activities and sightseeing. Pack light and breathable apparel such as shorts, t-shirts, and summer dresses. Don't forget to bring sunscreen, sunglasses, and a wide-brimmed hat for sun protection. Water-resistant sandals or flip-flops are ideal for beach walks. Explore Goa's vibrant markets, historic churches, and quaint villages during this delightful season!",
+            "accessories": [
+              "Sunscreen with high SPF",
+              "Sunglasses",
+              "Wide-brimmed hat",
+              "Water-resistant sandals or flip-flops"
+            ],
+            "apparel": [
+              "Shorts",
+              "T-shirts",
+              "Summer dresses"
+            ],
+            "gears": [],
+            "misc": [
+              "Explore vibrant markets and historic churches",
+              "Visit quaint villages"
+            ]
+          }
+        }
+      }
+      
+  ]
+  
