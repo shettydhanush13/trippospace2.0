@@ -1,0 +1,27 @@
+.tags-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .tag {
+    background-color: #f0f0f0;
+    color: #333;
+    font-size: 14px;
+    padding: 4px 8px;
+    margin: 0;
+    margin-right: 8px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    text-transform: capitalize;
+  
+    &:hover {
+      background-color: #ddd;
+    }
+  }
+
+  .activetag {
+    background-color: #333;
+    color: #f0f0f0;
+  }
+  

@@ -3,7 +3,7 @@ import { useState, useEffect } from 'react';
 import './styles.scss';
 import { useNavigate } from 'react-router-dom';
 
-const blogs = require('../../data/blogposts.json');
+const blogs = require('../../data/data.json');
 
 const BlogSection = () => {
 
@@ -31,8 +31,8 @@ const BlogSection = () => {
           <div key={blog.id} className={`blog-card ${index === activeIndex ? 'active' : ''}`} onClick={() => navigate(`/blog/${blog.id}`)}>
             <img src={blog.imageUrl} alt={blog.title} className="blog-image" />
             <div className="blog-content">
-              <h3>{blog.title}</h3>
-              <p>{blog.content}</p>
+              <h3>{blog.guide['dec-feb'].title}</h3>
+              <p>{blog.guide['dec-feb'].short_content}</p>
             </div>
           </div>
         ))}

@@ -1,0 +1,233 @@
+[
+    {
+        "id": 1,
+        "place": "Goa",
+        "imageUrl": "https://media.istockphoto.com/id/535168027/photo/india-goa-palolem-beach.jpg?s=612x612&w=0&k=20&c=iGV1Ue0Efj87dQirWnUpZVG1dNobUjfVvMGdKHTJ7Qg=",
+        "guide": {
+          "dec-feb": {
+            "title": "Winter Escapade in Goa",
+            "imageUrl": "https://media2.thrillophilia.com/images/photos/000/020/234/original/1589185778_beach.jpg?gravity=center&width=1280&height=642&crop=fill&quality=auto&fetch_format=auto&flags=strip_profile&format=jpg&sign_url=true",
+            "short_content": "Cool weather with temperatures ranging from 20°C to 30°C.",
+            "content": "Goa experiences pleasant weather during the winter season. Days are sunny and warm, perfect for beach activities and water sports. Pack light and comfortable apparel such as shorts, t-shirts, and summer dresses. Don't forget to bring sunscreen, sunglasses, and a wide-brimmed hat for sun protection. Water-resistant sandals or flip-flops are essential for sandy beach walks. Remember to carry a beach towel, swimwear, and a waterproof phone case for beachside fun. Explore Goa's vibrant nightlife and indulge in delicious seafood delicacies!",
+            "accessories": [
+              "Sunscreen with high SPF",
+              "Sunglasses",
+              "Wide-brimmed hat",
+              "Water-resistant sandals or flip-flops",
+              "Beach towel",
+              "Swimwear",
+              "Waterproof phone case",
+              "Portable speaker"
+            ],
+            "apparel": {
+                "Men" : {
+                    "productsList" : [
+                        "Shorts",
+                        "T-shirts",
+                        "Summer dresses"
+                    ],
+                    "recommendations" : [
+                        {
+                          "id": 1,
+                          "name": "Men Regular Fit Rayon Shirt",
+                          "image": "https://m.media-amazon.com/images/I/71zxaJ6PXdL._SY741_.jpg",
+                          "productLink": "https://amzn.to/3WDATXU"
+                        },
+                        {
+                          "id": 2,
+                          "name": "Rayon Multi Printed Short Night Suit",
+                          "image": "https://m.media-amazon.com/images/I/617r9XuWkXL._SY741_.jpg",
+                          "productLink": "https://amzn.to/3UWxP83"
+                        },
+                        {
+                          "id": 3,
+                          "name": "Summer Wear Short Pajama Set",
+                          "image": "https://m.media-amazon.com/images/I/61DtPleZhjL._SY741_.jpg",
+                          "productLink": "https://amzn.to/3JVFjS7"
+                        }
+                    ]
+                },
+                "Women" : {
+                    "productsList" : [
+                        "Shorts",
+                        "T-shirts",
+                        "Summer dresses"
+                    ],
+                    "recommendations" : [
+                        {
+                          "id": 1,
+                          "name": "Women's Maxi Two-Piece Dress",
+                          "image": "https://m.media-amazon.com/images/I/81tDFJQxRSL._SY741_.jpg",
+                          "productLink": "https://amzn.to/4dy0HdZ"
+                        },
+                        {
+                          "id": 2,
+                          "name": "Co Ord Set Three Piece Dress",
+                          "image": "https://m.media-amazon.com/images/I/71F3SBaazKL._SY741_.jpg",
+                          "productLink": "https://amzn.to/3UWxP83"
+                        },
+                        {
+                          "id": 3,
+                          "name": "Beach Co Ord Set Three Piece",
+                          "image": "https://m.media-amazon.com/images/I/41eu0PVrssL._SY741_.jpg",
+                          "productLink": "https://amzn.to/4baVUgN"
+                        }
+                    ]
+                },
+                "Children" : {
+                    "productsList" : [
+                        "Shorts",
+                        "T-shirts",
+                        "Summer dresses"
+                    ],
+                    "recommendations" : []
+                }
+            },
+            "gears": [
+              "Waterproof camera or smartphone case"
+            ],
+            "misc": [
+              "Local seafood delicacies",
+              "Refreshing coconut water"
+            ]
+          },
+          "mar-may": {
+            "title": "Summer Beach Vibes in Goa",
+            "imageUrl": "https://media2.thrillophilia.com/images/photos/000/020/234/original/1589185778_beach.jpg?gravity=center&width=1280&height=642&crop=fill&quality=auto&fetch_format=auto&flags=strip_profile&format=jpg&sign_url=true",
+            "short_content": "Sunny weather with temperatures ranging from 25°C to 35°C.",
+            "content": "Goa experiences hot and humid weather during the summer season. Days are sunny with occasional showers. Light and breathable apparel is recommended, such as shorts, tank tops, and summer dresses. Don't forget to pack sunscreen with high SPF to protect your skin from the sun's harmful rays, along with sunglasses and a wide-brimmed hat for added sun protection. Water-resistant sandals or flip-flops are essential for beach walks. Remember to bring a reusable water bottle to stay hydrated throughout the day. Other must-carry items include a beach towel, swimwear, a waterproof phone case, and a portable speaker for beachside entertainment. Capture your Goa adventures with a waterproof camera or smartphone case, and don't forget to sample the local seafood delicacies and refreshing coconut water!",
+            "accessories": [
+              "Sunscreen with high SPF",
+              "Sunglasses",
+              "Wide-brimmed hat",
+              "Water-resistant sandals or flip-flops",
+              "Beach towel",
+              "Swimwear",
+              "Waterproof phone case",
+              "Portable speaker"
+            ],
+            "apparel": {
+                "Men" : {
+                    "productsList" : [
+                        "Shorts",
+                        "T-shirts",
+                        "Summer dresses"
+                    ],
+                    "recommendations" : []
+                },
+                "Women" : {
+                    "productsList" : [
+                        "Shorts",
+                        "T-shirts",
+                        "Summer dresses"
+                    ],
+                    "recommendations" : []
+                },
+                "Children" : {
+                    "productsList" : [
+                        "Shorts",
+                        "T-shirts",
+                        "Summer dresses"
+                    ],
+                    "recommendations" : []
+                }
+            },
+            "gears": [
+              "Waterproof camera or smartphone case"
+            ],
+            "misc": [
+              "Local seafood delicacies",
+              "Refreshing coconut water"
+            ]
+          },
+          "june-aug": {
+            "title": "Monsoon Getaway in Goa",
+            "imageUrl": "https://media2.thrillophilia.com/images/photos/000/020/234/original/1589185778_beach.jpg?gravity=center&width=1280&height=642&crop=fill&quality=auto&fetch_format=auto&flags=strip_profile&format=jpg&sign_url=true",
+            "short_content": "Rainy weather with temperatures ranging from 25°C to 30°C.",
+            "content": "Goa experiences heavy rainfall during the monsoon season, with occasional thunderstorms. Days are overcast and humid, perfect for enjoying the lush greenery and scenic beauty of the region. Pack waterproof apparel, umbrellas, and waterproof shoes to stay dry during outdoor activities. Bring light and breathable apparel such as cotton shirts, shorts, and raincoats. Don't forget to carry insect repellent and a first aid kit for emergencies. Embrace the monsoon magic of Goa by exploring its waterfalls, rivers, and lush forests!",
+            "accessories": [
+              "Umbrella",
+              "Raincoat",
+              "Waterproof shoes",
+              "Insect repellent",
+              "First aid kit"
+            ],
+            "apparel": {
+                "Men" : {
+                    "productsList" : [
+                        "Shorts",
+                        "T-shirts",
+                        "Summer dresses"
+                    ],
+                    "recommendations" : []
+                },
+                "Women" : {
+                    "productsList" : [
+                        "Shorts",
+                        "T-shirts",
+                        "Summer dresses"
+                    ],
+                    "recommendations" : []
+                },
+                "Children" : {
+                    "productsList" : [
+                        "Shorts",
+                        "T-shirts",
+                        "Summer dresses"
+                    ],
+                    "recommendations" : []
+                }
+            },
+            "gears": [],
+            "misc": [
+              "Explore waterfalls and rivers",
+              "Enjoy lush greenery"
+            ]
+          },
+          "sep-nov": {
+            "title": "Autumn Delight in Goa",
+            "imageUrl": "https://media2.thrillophilia.com/images/photos/000/020/234/original/1589185778_beach.jpg?gravity=center&width=1280&height=642&crop=fill&quality=auto&fetch_format=auto&flags=strip_profile&format=jpg&sign_url=true",
+            "short_content": "Pleasant weather with temperatures ranging from 25°C to 30°C.",
+            "content": "Goa experiences pleasant weather during the autumn season, with clear skies and comfortable temperatures. Days are warm and sunny, perfect for beach activities and sightseeing. Pack light and breathable apparel such as shorts, t-shirts, and summer dresses. Don't forget to bring sunscreen, sunglasses, and a wide-brimmed hat for sun protection. Water-resistant sandals or flip-flops are ideal for beach walks. Explore Goa's vibrant markets, historic churches, and quaint villages during this delightful season!",
+            "accessories": [
+              "Sunscreen with high SPF",
+              "Sunglasses",
+              "Wide-brimmed hat",
+              "Water-resistant sandals or flip-flops"
+            ],
+            "apparel": {
+                "Men" : {
+                    "productsList" : [
+                        "Shorts",
+                        "T-shirts",
+                        "Summer dresses"
+                    ],
+                    "recommendations" : []
+                },
+                "Women" : {
+                    "productsList" : [
+                        "Shorts",
+                        "T-shirts",
+                        "Summer dresses"
+                    ],
+                    "recommendations" : []
+                },
+                "Children" : {
+                    "productsList" : [
+                        "Shorts",
+                        "T-shirts",
+                        "Summer dresses"
+                    ],
+                    "recommendations" : []
+                }
+            },
+            "gears": [],
+            "misc": [
+              "Explore vibrant markets and historic churches",
+              "Visit quaint villages"
+            ]
+          }
+        }
+    }  
+]
+  

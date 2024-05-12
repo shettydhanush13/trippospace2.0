@@ -3,6 +3,7 @@ import Home from "./pages/home"
 import BlogPost from "./pages/blogpost";
 import AboutUs from "./pages/about"
 import ContactUs from "./pages/contact"
+import './App.css';
 
 const App = () => {
  return (
